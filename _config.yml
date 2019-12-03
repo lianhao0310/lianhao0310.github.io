@@ -1,11 +1,11 @@
 # Site settings
-title: 李理的博客
-SEOTitle: 李理的博客
+title: 练浩的博客
+SEOTitle: 练浩的博客
 header-img: img/home-bg.jpg
-email: fancyerii@gmail.com
+email: lianhao0310@gmail.com
 description: ""
 keyword: ""
-url: "http://fancyerii.github.io"              # your host, for absolute URL
+url: "http://lianhao0310.github.io"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 excerpt_separator: "<!--more-->"
 
@@ -14,7 +14,7 @@ excerpt_separator: "<!--more-->"
 RSS: true
 #weibo_username:     huxpro
 #zhihu_username:     huxpro
-github_username:    fancyerii
+github_username:    lianhao0310
 #twitter_username:  huxpro
 #facebook_username:  huxpro
 
@@ -47,7 +47,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: fancyerii
+disqus_username: nicolaslian
 
 # Duoshuo settings
 duoshuo_username:  
@@ -59,7 +59,7 @@ duoshuo_share: false                     # set to false if you want to use Comme
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 1adf2d3145a435baa683d84388135812
+ba_track_id: 1d93039c23706b6909df82485815c818
 # Google Analytics
 # ga_track_id: 'UA-133955198-1'            # Format: UA-xxxxxx-xx
 # ga_domain: fancyerii.github.io
@@ -68,7 +68,7 @@ ba_track_id: 1adf2d3145a435baa683d84388135812
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "读读论文，写写代码。"
+sidebar-about-description: "聚沙成石！！！"
 sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -102,7 +102,7 @@ collections:
 # Friends
 friends: [
     {
-        title: "Li Li",
-        href: "http://fancyerii.github.io"
+        title: "lianhao",
+        href: "http://lianhao0310.github.io"
     }
 ]
